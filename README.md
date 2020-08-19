@@ -8,7 +8,7 @@ Live version hosted at [here](https://rohanrajgautam.github.io/react-monsters-ro
 
 ---
 
-![preview](https://i.imgur.com/undefined.png)
+![preview](https://i.imgur.com/4N0XI6M.png)
 
 ---
 
